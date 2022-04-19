@@ -6,3 +6,4 @@ TrafficLights/TrafficLights/Debug/Makefile
 *.eep
 *.map
 *.srec
+*.workspace
