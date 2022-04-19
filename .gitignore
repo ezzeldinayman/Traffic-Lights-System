@@ -1,0 +1,8 @@
+
+*.o
+*.d
+TrafficLights/TrafficLights/Debug/Makefile
+*.mk
+*.eep
+*.map
+*.srec
